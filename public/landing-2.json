@@ -1,0 +1,63 @@
+{
+	"data": [
+		{
+			"id": "2",
+			"type": "percentages",
+			"attributes": {
+				"companyName": "Target",
+				"percentage": "2%",
+				"category": "Electronics",
+				"card": "Chase",
+				"content": "Target Details"
+			},
+			"links": {
+				"self": "http://localhost:9090/cashBackFinder/api/percentages/2"
+			}
+		},
+		{
+			"id": "1",
+			"type": "percentages",
+			"attributes": {
+				"companyName": "Walmart",
+				"percentage": "4%",
+				"category": "food",
+				"card": "Bank of America",
+				"content": "Walmart Details"
+			},
+			"links": {
+				"self": "http://localhost:9090/cashBackFinder/api/percentages/1"
+			}
+		},
+		{
+			"id": "5",
+			"type": "percentages",
+			"attributes": {
+				"companyName": "Sam's Club",
+				"percentage": "3%",
+				"category": "Retail",
+				"card": "Chase",
+				"content": "Sams Details"
+			},
+			"links": {
+				"self": "http://localhost:9090/cashBackFinder/api/percentages/5"
+			}
+		},
+		{
+			"id": "4",
+			"type": "percentages",
+			"attributes": {
+				"companyName": "Shell",
+				"percentage": "5%",
+				"category": "Gas",
+				"card": "Citi Bank",
+				"content": "Citi Details"
+			},
+			"links": {
+				"self": "http://localhost:9090/cashBackFinder/api/percentages/4"
+			}
+		}
+	],
+	"meta": {
+		"totalResourceCount": null
+	}
+}
